@@ -1,0 +1,12 @@
+1, Blusa,100,Damas
+2, Lentes,380,Caballeros
+3, Playera azul,250,Caballeros
+4, Blusa negra,100,Damas
+5, Vestido,450,Damas
+6, Playera roja,300,caballeros
+7, Calcetines,80,Caballeros
+8, Gorro,100,unisex
+9, Camisa de TEMU,900,Dama y Caballero
+10, Boina,500,Caballero
+11, Casco de Master Chief,3349,Caballero
+12, Coca de vidrio,13,Comida
